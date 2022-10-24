@@ -1,6 +1,6 @@
 # Projeto CRUD em PHP - Bootstrap, PDO & MySQL
 
-Desenvolvimento de um simples projeto CRUD (agenda de contatos) utilizando o acesso a banco de dados com o MySQL e linguagem PHP.
+Desenvolvimento de um simples projeto CRUD (agenda de contatos) utilizando o acesso ao banco de dados MySQL e a linguagem PHP.
 
 ## Instrução do Projeto:
 
