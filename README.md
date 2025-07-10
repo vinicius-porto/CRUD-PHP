@@ -1,3 +1,5 @@
+⚠️ Aviso: Este projeto está passando por uma atualização. O antigo sistema de Agenda de Contatos está sendo migrado e adaptado para um novo contexto: Sistema de Chamados Técnicos (Tickets). Algumas funcionalidades e nomes de arquivos ainda podem refletir a versão anterior.
+
 # Projeto CRUD em PHP - Bootstrap, PDO & MySQL
 
 Desenvolvimento de um simples projeto CRUD (agenda de contatos) utilizando o acesso ao banco de dados MySQL e a linguagem PHP.
